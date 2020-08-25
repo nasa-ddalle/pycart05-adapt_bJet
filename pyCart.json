@@ -128,7 +128,7 @@
         // Place to put the data book
         "Folder": "data/poweroff",
         // Sources for target information
-        "Targets": [ ],
+        "Targets": {},
         // Information about each component.
         "fuselage": {"Type": "FM"},
         // Wing component
